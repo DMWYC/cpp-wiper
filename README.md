@@ -9,5 +9,5 @@ Use of this project on any device, server, network, or data that you do not own 
 The author of this repository assume no responsibility or liability for any misuse, direct or indirect damages, 
 or any consequences arising from the use of this code.
 
-** This code should only be executed in isolated, non-production environments (e.g., sandbox or virtual machine) 
+**This code should only be executed in isolated, non-production environments (e.g., sandbox or virtual machine) 
 and strictly for educational purposes.**
